@@ -1,0 +1,27 @@
+{
+  "name": "@eove/eslint-config-node",
+  "version": "1.0.0-dev.0",
+  "description": "Node eslint shareable configuration",
+  "author": "EOVE",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eove/javascript.git",
+    "directory": "packages/eslint-config-node"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No test yet"
+  },
+  "bugs": {
+    "url": "https://github.com/eove/javascript/issues"
+  },
+  "homepage": "https://github.com/eove/javascript/packages/eslint-config-node#readme",
+  "dependencies": {
+    "eslint-config-prettier": "6.11.0",
+    "eslint-plugin-prettier": "3.1.3"
+  },
+  "peerDependencies": {
+    "eslint": ">= 6"
+  }
+}

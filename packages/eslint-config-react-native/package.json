@@ -1,0 +1,27 @@
+{
+  "name": "@eove/eslint-config-react-native",
+  "version": "1.0.0-dev.0",
+  "description": "React Native eslint shareable configuration",
+  "author": "EOVE",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eove/javascript.git",
+    "directory": "packages/eslint-config-react-native"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No test yet"
+  },
+  "bugs": {
+    "url": "https://github.com/eove/javascript/issues"
+  },
+  "homepage": "https://github.com/eove/javascript/packages/eslint-config-react-native#readme",
+  "dependencies": {
+    "@react-native-community/eslint-config": "1.1.0",
+    "eslint-config-prettier": "6.11.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 6"
+  }
+}

@@ -1,0 +1,6 @@
+# eove default ignore list
+__mocks__
+.*
+*.spec.js
+test
+coverage
