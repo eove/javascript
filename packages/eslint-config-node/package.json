@@ -10,6 +10,9 @@
     "directory": "packages/eslint-config-node"
   },
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo No test yet"
   },

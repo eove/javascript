@@ -30,6 +30,19 @@ npm run bootstrap
 
 ### Publishing
 
-Packages are published on [npmjs.org](https://www.npmjs.com/).
+Packges are published on:
 
-Just use `npx lerna publish <version>` to publish.
+- [npmjs.org](https://www.npmjs.com/settings/eove/packages)
+- [github.com](https://github.com/orgs/eove/packages?repo_name=javascript)
+
+Use the following command to publish to npmjs.org:
+
+```
+npx lerna publish <version>
+```
+
+Then publish packages to github.com with:
+
+```
+npx lerna publish from-package --registry https://npm.pkg.github.com
+```
