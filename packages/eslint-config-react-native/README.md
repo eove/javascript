@@ -1,18 +1,12 @@
 # @eove/eslint-config-react-native
 
+React Native eslint shareable configuration
+
 ## Installation
 
-Add a dev dependency like:
-
-```json
-{
-  "devDependencies": {
-    "@eove/eslint-config-react-native": "git+ssh://git@github.com/eove/eslint-config-react-native.git#v0.0.3"
-  }
-}
 ```
-
-(Replace the `v0.0.1` example tag with the latest version)
+npm install --save-dev @eove/eslint-config-react-native
+```
 
 ## Usage
 

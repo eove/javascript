@@ -1,5 +1,7 @@
 # @eove/eslint-config-node
 
+Node eslint shareable configuration
+
 ## Installation
 
 ```
