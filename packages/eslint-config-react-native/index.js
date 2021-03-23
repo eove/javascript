@@ -10,4 +10,5 @@ module.exports = {
     "react-native/no-inline-styles": "error",
     "prettier/prettier": "off",
   },
+  ignorePatterns: ['android'],
 };

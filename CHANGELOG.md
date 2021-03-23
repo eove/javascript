@@ -11,22 +11,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - `eslint-config-typescript`: Typescript eslint shareable configuration
 
+- `eslint-config-react-native`
+  - `android` directory is ignored by default
+
 ## 1.1.0 - 2021-03-19
 
 ### Changed
 
-* `eslint-config-react-native`
-  * more rules
+- `eslint-config-react-native`
+  - more rules
 
 ## 1.0.1 - 2020-09-29
 
 ### Changed
 
-* `eslint-config-react-native`
-  * dependencies update
+- `eslint-config-react-native`
 
-* `eslint-config-node`
-  * dependencies update
+  - dependencies update
+
+- `eslint-config-node`
+  - dependencies update
 
 ## 1.0.0 - 2020-09-29
 
