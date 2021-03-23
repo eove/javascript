@@ -10,6 +10,7 @@ Available packages:
 
 - [@eove/eslint-config-node](/packages/eslint-config-node): Node eslint shareable configuration
 - [@eove/eslint-config-react-native](/packages/eslint-config-react-native): React Native eslint shareable configuration
+- [@eove/eslint-config-typescript](/packages/eslint-config-typescript): Typescript eslint shareable configuration
 
 ## For developers
 
