@@ -14,7 +14,8 @@
     "access": "public"
   },
   "scripts": {
-    "test": "echo No test yet"
+    "test": "echo No test yet",
+    "prettier": "prettier --write '**/*.{js,json,md}'"
   },
   "bugs": {
     "url": "https://github.com/eove/javascript/issues"
@@ -26,5 +27,8 @@
   },
   "peerDependencies": {
     "eslint": ">= 6"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
   }
 }
