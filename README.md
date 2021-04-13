@@ -8,6 +8,7 @@ This is a monorepository, subprojects are in [packages](/packages) directory.
 
 Available packages:
 
+- [@eove/eslint-config-electron](/packages/eslint-config-electron): Electron eslint shareable configuration
 - [@eove/eslint-config-node](/packages/eslint-config-node): Node eslint shareable configuration
 - [@eove/eslint-config-react-native](/packages/eslint-config-react-native): React Native eslint shareable configuration
 - [@eove/eslint-config-typescript](/packages/eslint-config-typescript): Typescript eslint shareable configuration
