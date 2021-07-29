@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - `eslint-config-typescript`: `@typescript-eslint/explicit-module-boundary-types` rule deactivated
 - `eslint-config-typescript`: Plain JS files get node, jest and es6 env to allow mixing JS and TS
+- Dependencies update for each package
 
 ## 1.3.0 - 2021-04-13
 
