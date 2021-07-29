@@ -10,9 +10,11 @@ module.exports = {
   ignorePatterns: ["build"],
   overrides: [
     {
-      files: [".eslintrc.js"],
+      files: ["*.js"],
       env: {
+        es6: true,
         node: true,
+        jest: true,
       },
     },
   ],
