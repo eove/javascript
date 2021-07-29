@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/eove/javascript/issues"
   },
-  "homepage": "https://github.com/eove/javascript/packages/eslint-config-react-native#readme",
+  "homepage": "https://github.com/eove/javascript/tree/HEAD/packages/eslint-config-react-native/README.md",
   "dependencies": {
     "@react-native-community/eslint-config": "3.0.0",
     "eslint-config-prettier": "8.3.0"

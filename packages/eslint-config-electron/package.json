@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/eove/javascript/issues"
   },
-  "homepage": "https://github.com/eove/javascript/packages/eslint-config-electron#readme",
+  "homepage": "https://github.com/eove/javascript/tree/HEAD/packages/eslint-config-electron/README.md",
   "dependencies": {
     "babel-eslint": "10.1.0",
     "eslint-config-prettier": "8.3.0",

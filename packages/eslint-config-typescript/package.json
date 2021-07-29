@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/eove/javascript/issues"
   },
-  "homepage": "https://github.com/eove/javascript/packages/eslint-config-typescript#readme",
+  "homepage": "https://github.com/eove/javascript/tree/HEAD/packages/eslint-config-typescript/README.md",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "4.28.5",
     "@typescript-eslint/parser": "4.28.5"
