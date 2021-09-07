@@ -1,6 +1,6 @@
 {
   "name": "@eove/eslint-config-react-native",
-  "version": "1.4.0-dev.3",
+  "version": "1.4.0",
   "description": "React Native eslint shareable configuration",
   "author": "EOVE",
   "license": "MIT",

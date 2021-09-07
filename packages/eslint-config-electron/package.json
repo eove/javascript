@@ -1,6 +1,6 @@
 {
   "name": "@eove/eslint-config-electron",
-  "version": "1.4.0-dev.3",
+  "version": "1.4.0",
   "description": "Electron eslint shareable configuration",
   "author": "EOVE",
   "license": "MIT",
