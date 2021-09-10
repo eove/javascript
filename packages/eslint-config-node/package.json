@@ -23,12 +23,12 @@
   "homepage": "https://github.com/eove/javascript/tree/HEAD/packages/eslint-config-node/README.md",
   "dependencies": {
     "eslint-config-prettier": "8.3.0",
-    "eslint-plugin-prettier": "3.4.0"
+    "eslint-plugin-prettier": "4.0.0"
   },
   "peerDependencies": {
     "eslint": ">= 6"
   },
   "devDependencies": {
-    "prettier": "2.3.2"
+    "prettier": "2.4.0"
   }
 }
