@@ -22,13 +22,13 @@
   },
   "homepage": "https://github.com/eove/javascript/tree/HEAD/packages/eslint-config-typescript/README.md",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "5.9.0",
-    "@typescript-eslint/parser": "5.9.0"
+    "@typescript-eslint/eslint-plugin": "5.16.0",
+    "@typescript-eslint/parser": "5.16.0"
   },
   "peerDependencies": {
     "eslint": ">= 6"
   },
   "devDependencies": {
-    "prettier": "2.5.1"
+    "prettier": "2.6.0"
   }
 }
