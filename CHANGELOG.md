@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `eslint-config-react-native`
   - linting about curly braces presence
 
+- all packages:
+  - dependencies update
+
 ## 1.7.0 - 2022-03-23
 
 - all packages:
