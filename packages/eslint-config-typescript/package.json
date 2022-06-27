@@ -1,6 +1,6 @@
 {
   "name": "@eove/eslint-config-typescript",
-  "version": "1.8.0-dev.1",
+  "version": "1.8.0",
   "description": "Typescript eslint shareable configuration",
   "author": "EOVE",
   "license": "MIT",
