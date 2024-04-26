@@ -1,6 +1,6 @@
 {
   "name": "@eove/eslint-config-react-native",
-  "version": "1.8.0",
+  "version": "1.9.0-pr-4.1",
   "description": "React Native eslint shareable configuration",
   "author": "EOVE",
   "license": "MIT",
@@ -22,13 +22,13 @@
   },
   "homepage": "https://github.com/eove/javascript/tree/HEAD/packages/eslint-config-react-native/README.md",
   "dependencies": {
-    "@react-native-community/eslint-config": "3.0.1",
+    "@react-native/eslint-config": "0.74.81",
     "eslint-config-prettier": "8.5.0"
   },
   "peerDependencies": {
     "eslint": ">= 6"
   },
   "devDependencies": {
-    "prettier": "2.6.0"
+    "prettier": "2.8.8"
   }
 }

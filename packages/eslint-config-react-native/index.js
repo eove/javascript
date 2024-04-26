@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["@react-native-community", "eslint-config-prettier"],
+  extends: ["@react-native", "eslint-config-prettier"],
   rules: {
     "no-shadow": "off",
     "consistent-this": ["error", "self"],
