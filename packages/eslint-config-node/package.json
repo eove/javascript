@@ -1,6 +1,6 @@
 {
   "name": "@eove/eslint-config-node",
-  "version": "1.8.0",
+  "version": "1.8.1-beta.1",
   "description": "Node eslint shareable configuration",
   "author": "EOVE",
   "license": "MIT",
