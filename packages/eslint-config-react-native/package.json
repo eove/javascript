@@ -22,8 +22,7 @@
   },
   "homepage": "https://github.com/eove/javascript/tree/HEAD/packages/eslint-config-react-native/README.md",
   "dependencies": {
-    "@react-native-community/eslint-config": "^3.2.0",
-    "eslint-config-prettier": "^9.1.0"
+    "@react-native/eslint-config": "0.75.4"
   },
   "peerDependencies": {
     "eslint": ">= 8"
