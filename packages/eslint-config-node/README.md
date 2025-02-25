@@ -5,7 +5,7 @@ Node eslint shareable configuration
 ## Installation
 
 ```
-npm install --save-dev @eove/eslint-config-node
+npm install --save-dev @eove/eslint-config-node eslint-plugin-prettier
 ```
 
 ## Usage
