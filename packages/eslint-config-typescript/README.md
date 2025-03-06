@@ -5,7 +5,7 @@ Typescript eslint shareable configuration
 ## Installation
 
 ```
-npm install --save-dev @eove/eslint-config-typescript
+npm install --save-dev eslint@8 @typescript-eslint/eslint-plugin@8 @eove/eslint-config-typescript
 ```
 
 ## Usage

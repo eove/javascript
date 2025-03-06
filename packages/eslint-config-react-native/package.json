@@ -1,6 +1,6 @@
 {
   "name": "@eove/eslint-config-react-native",
-  "version": "2.1.0",
+  "version": "2.1.1-dev.5",
   "description": "React Native eslint shareable configuration",
   "author": "EOVE",
   "license": "MIT",
@@ -25,9 +25,10 @@
     "@react-native/eslint-config": "0.75.4"
   },
   "peerDependencies": {
-    "eslint": ">= 8"
+    "eslint": "8.x",
+    "eslint-plugin-jest": "28.x"
   },
   "devDependencies": {
-    "prettier": "^3.3.3"
+    "prettier": "2.8.8"
   }
 }

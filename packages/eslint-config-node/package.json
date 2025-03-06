@@ -1,6 +1,6 @@
 {
   "name": "@eove/eslint-config-node",
-  "version": "2.1.0",
+  "version": "2.1.1-dev.5",
   "description": "Node eslint shareable configuration",
   "author": "EOVE",
   "license": "MIT",
@@ -22,13 +22,13 @@
   },
   "homepage": "https://github.com/eove/javascript/tree/HEAD/packages/eslint-config-node/README.md",
   "dependencies": {
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.2.1"
+    "eslint-config-prettier": "^9.1.0"
   },
   "peerDependencies": {
-    "eslint": ">= 8"
+    "eslint": "8.x",
+    "eslint-plugin-prettier": "4.x"
   },
   "devDependencies": {
-    "prettier": "^3.3.3"
+    "prettier": "2.8.8"
   }
 }

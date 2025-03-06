@@ -1,6 +1,6 @@
 {
   "name": "@eove/eslint-config-electron",
-  "version": "2.0.1",
+  "version": "2.1.1-dev.5",
   "description": "Electron eslint shareable configuration",
   "author": "EOVE",
   "license": "MIT",
@@ -23,15 +23,15 @@
   "homepage": "https://github.com/eove/javascript/tree/HEAD/packages/eslint-config-electron/README.md",
   "dependencies": {
     "babel-eslint": "10.1.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.2.1",
-    "eslint-plugin-react": "^7.36.1",
-    "eslint-plugin-react-hooks": "^4.6.2"
+    "eslint-config-prettier": "9.1.0"
   },
   "peerDependencies": {
-    "eslint": ">= 8"
+    "eslint": "8.x",
+    "eslint-plugin-prettier": "4.x",
+    "eslint-plugin-react": "7.x",
+    "eslint-plugin-react-hooks": "4.x"
   },
   "devDependencies": {
-    "prettier": "^3.3.3"
+    "prettier": "2.8.8"
   }
 }

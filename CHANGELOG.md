@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 2.1.1 - UNRELEASED
+
+### Fixed
+
+- all packages:
+  - more peer dependencies required (like `eslint-plugin-jest`)
+
 ## 2.1.0 - 2025-02-25
 
 ### Changed
@@ -16,14 +23,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - all packages:
-  - package-lock.json correctly generated
+    - package-lock.json correctly generated
 
 ## 2.0.0 - 2024-09-23
 
 ### Changed
 
 - all packages:
-  - dependencies update
+    - dependencies update
 
 ### BREAKING CHANGES
 
@@ -34,38 +41,38 @@ All dependencies have been updated including major bumps for eslint.
 ### Changed
 
 - `eslint-config-react-native`
-  - linting about curly braces presence
+    - linting about curly braces presence
 
 - all packages:
-  - dependencies update
+    - dependencies update
 
 ## 1.7.0 - 2022-03-23
 
 - all packages:
-  - dependencies update
+    - dependencies update
 
 - `eslint-config-typescript`
-  - TS 4.6 support
+    - TS 4.6 support
 
 ## 1.6.0 - 2021-09-10
 
 ### Changed
 
 - all packages:
-  - dependencies update
+    - dependencies update
 
 - `eslint-config-typescript`
-  - TS 4.5 support
+    - TS 4.5 support
 
 ## 1.5.0 - 2021-09-10
 
 ### Changed
 
 - all packages:
-  - dependencies update
+    - dependencies update
 
 - `eslint-config-typescript`
-  - TS 4.4 support
+    - TS 4.4 support
 
 ## 1.4.0 - 2021-09-07
 
@@ -86,7 +93,7 @@ All dependencies have been updated including major bumps for eslint.
 ### Fixed
 
 - `eslint-config-typescript`:
-  - `.eslintrc.js` file has node env
+    - `.eslintrc.js` file has node env
 
 ## 1.2.0 - 2021-03-23
 
@@ -95,24 +102,24 @@ All dependencies have been updated including major bumps for eslint.
 - `eslint-config-typescript`: Typescript eslint shareable configuration
 
 - `eslint-config-react-native`
-  - `android` directory is ignored by default
+    - `android` directory is ignored by default
 
 ## 1.1.0 - 2021-03-19
 
 ### Changed
 
 - `eslint-config-react-native`
-  - more rules
+    - more rules
 
 ## 1.0.1 - 2020-09-29
 
 ### Changed
 
 - `eslint-config-react-native`
-  - dependencies update
+    - dependencies update
 
 - `eslint-config-node`
-  - dependencies update
+    - dependencies update
 
 ## 1.0.0 - 2020-09-29
 
