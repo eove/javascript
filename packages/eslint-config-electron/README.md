@@ -5,7 +5,7 @@ Electron eslint shareable configuration
 ## Installation
 
 ```
-npm install --save-dev @eove/eslint-config-electron
+npm install --save-dev eslint@8 eslint-plugin-prettier@4 eslint-plugin-react@7 eslint-plugin-react-hooks@4 @eove/eslint-config-electron
 ```
 
 ## Usage

@@ -25,10 +25,10 @@
     "eslint-config-prettier": "^9.1.0"
   },
   "peerDependencies": {
-    "eslint": ">= 8",
-    "eslint-plugin-prettier": ">= 5"
+    "eslint": "8.x",
+    "eslint-plugin-prettier": "4.x"
   },
   "devDependencies": {
-    "prettier": "^3.3.3"
+    "prettier": "2.8.8"
   }
 }

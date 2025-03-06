@@ -9,7 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- `eslint-config-react-native`: `eslint-plugin-jest` is an explicit dependency to avoid missing jest globals error
+- all packages:
+  - more peer dependencies required (like `eslint-plugin-jest`)
 
 ## 2.1.0 - 2025-02-25
 
