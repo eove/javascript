@@ -5,7 +5,7 @@ React Native eslint shareable configuration
 ## Installation
 
 ```
-npm install --save-dev @eove/eslint-config-react-native
+npm install --save-dev @eove/eslint-config-react-native eslint-plugin-jest
 ```
 
 ## Usage
