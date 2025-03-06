@@ -2,7 +2,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "2.1.1-dev.2",
+  "version": "2.1.1-dev.3",
   "command": {
     "publish": {
       "registry": "https://registry.npmjs.org"
